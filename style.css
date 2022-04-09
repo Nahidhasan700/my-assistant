@@ -14,7 +14,7 @@
     align-items: center;
   }
   body::after{
-    content: "Developed by Developer Tawfik";
+    content: "Developed by Developer Nahid";
     bottom: 5px;
     right: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
